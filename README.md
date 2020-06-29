@@ -1,4 +1,5 @@
-> 项目描述
+> 学习nodejs stream 中的几种用法
+参考文档 https://www.jianshu.com/p/53049544df9e
 
 ![my love](./logo.png) 
 
